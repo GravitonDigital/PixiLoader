@@ -1,0 +1,34 @@
+{
+  "name": "pixi-loader",
+  "version": "1.0.0",
+  "description": "A pixi.js asset loader example that works for iphone",
+  "author": "Garlov@Gravition Digital",
+  "dependencies": {
+    "babel-eslint": "^7.2.1",
+    "browser-sync": "^2.17.5",
+    "browserify": "^13.1.1",
+    "del": "^2.2.2",
+    "eslint": "^3.18.0",
+    "express": "^4.14.0",
+    "fontfaceobserver": "^2.0.9",
+    "gulp": "^3.9.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sourcemaps": "^2.2.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.7",
+    "howler": "^2.0.3",
+    "ie-array-find-polyfill": "^1.1.0",
+    "is-nan": "^1.2.1",
+    "jquery": "^3.1.1",
+    "lodash.assign": "^4.2.0",
+    "pixi.js": "^4.2.2",
+    "promise-polyfill": "^6.0.2",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.7.0"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.14.0",
+    "babelify": "^7.3.0"
+  }
+}
